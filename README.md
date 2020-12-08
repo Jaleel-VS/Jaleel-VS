@@ -4,7 +4,7 @@
 ### My goal is to specialise in Machine Learning or Computer Graphics
 
 - 🌱 I’m currently learning Python, R, SQL and C++
-- 👯 I’m looking to practice a little everyday with my focus being on Algorithms and Data Structures
+- 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in C++
 - 🥅 2021 Goals: Work on/complete a mini-project every week
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
