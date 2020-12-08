@@ -1,6 +1,5 @@
 ### Hi there, I'm Jaleel van Staden 
 #### I'm a Computer Science student at the University of Cape Town
-<br />
 
 ### My goal is to specialise in Machine Learning or Computer Graphics
 
