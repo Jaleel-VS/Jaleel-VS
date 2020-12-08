@@ -23,7 +23,6 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825126653886464/kisspng-c-programming-basics-for-absolute-beginners-comp-5b1061268e45a8.2307225915278001025828.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825121536835615/pngaaa.com-1525764.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785832445181952000/kisspng-postgresql-database-installation-microsoft-sql-ser-bearle-5b7719c74d6f48.1109325915345320393.png" />
 <br />
 
 ### Tools I use:
@@ -35,8 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-
+<br />
 <br />
 
 ### Course/books that I'm using📚:
@@ -47,8 +45,6 @@
 | [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | 2% |
 | [Python 3: Deep Dive (Part 1 - Functional)](https://www.udemy.com/course/python-3-deep-dive-part-1/) | 44.5 hours | 1% |
 | [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | 256 pages | 0% |
-<!-- | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | -->
 <br />
 
 ### Resources I use to practice💻:
