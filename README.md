@@ -1,11 +1,10 @@
-### Hi there, I'm Jaleel van Staden
+### Hi there, I'm Jaleel van Staden 
 #### I'm a Computer Science student at the University of Cape Town
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ### My goal is to specialise in Machine Learning or Computer Graphics
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Python, R, SQL and C++
 - 👯 I’m looking to practice a little everyday with my focus being on Algorithms and Data Structures
 - 🥅 2021 Goals: Work on/complete a mini-project every week
@@ -14,7 +13,7 @@
 
 
 ### Connect with me:
-simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 >
@@ -34,7 +33,6 @@ simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <img align="left" alt="SQL" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785823416208064593/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1ef9611.35140903.png />
 
 
-<br />
 
 ### Tools I use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
