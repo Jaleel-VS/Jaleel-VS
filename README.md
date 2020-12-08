@@ -23,7 +23,7 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825123323740181/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.2806896415232440.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825126653886464/kisspng-c-programming-basics-for-absolute-beginners-comp-5b1061268e45a8.2307225915278001025828.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825121536835615/pngaaa.com-1525764.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825123172876328/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063f31610.094814561524510819995.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785832445181952000/kisspng-postgresql-database-installation-microsoft-sql-ser-bearle-5b7719c74d6f48.1109325915345320393.png" />
 <br />
 
