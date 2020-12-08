@@ -32,7 +32,7 @@
 ### Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CLion" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785821845692874752/kisspng-clion-jetbrains-intellij-idea-c-macos-altova--umodel--anyware-softwares-5b6ab5bf2dc188.16267.png" />
+<img align="left" alt="CLion" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785822464466616350/kisspng-pycharm-integrated-development-environment-python-idea-5acfabf722a632.9895160015235594151419.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785822710885908490/kisspng-intellij-idea-integrated-development-environment-c-idea-5acd9e94ab83d5.070215431523424916702.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
