@@ -27,14 +27,12 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825126653886464/kisspng-c-programming-basics-for-absolute-beginners-comp-5b1061268e45a8.2307225915278001025828.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825121536835615/pngaaa.com-1525764.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825123172876328/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063f31610.094814561524510819995.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785823416208064593/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1ef9611.35140903.png />
 
 
 
 ### Tools I use:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CLion" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785821845692874752/kisspng-clion-jetbrains-intellij-idea-c-macos-altova--umodel--anyware-softwares-5b6ab5bf2dc188.16267.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785822464466616350/kisspng-pycharm-integrated-development-environment-python-idea-5acfabf722a632.9895160015235594151419.png" />
