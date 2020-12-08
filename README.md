@@ -1,5 +1,5 @@
 ### Hi there, I'm Jaleel van Staden 
-#### I'm a Computer Science student at the University of Cape Town
+##### I'm a Computer Science student at the University of Cape Town
 
 ### My goal is to specialise in Machine Learning or Computer Graphics
 
@@ -38,6 +38,27 @@
 
 
 <br />
+
+### Course/books that I'm using📚:
+
+| Resource |  Length | Progress |
+| --------------- | --------------- | --------------- |
+| [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | 25% |
+| [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | 2% |
+| [Python 3: Deep Dive (Part 1 - Functional)](https://www.udemy.com/course/python-3-deep-dive-part-1/) | 44.5 hours | 1% |
+| [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | 256 pages | 0% |
+<!-- | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | -->
+<br />
+
+### Resources I use to practice💻:
+
+- [Edabit](https://edabit.com/challenges/java)
+- [CodeAbby](https://www.codeabbey.com/)
+- [CodeWars](https://www.codewars.com/)
+- [CodeChef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems_head)
+- [Exercism](https://exercism.io/)
+
 
 
 
