@@ -42,7 +42,7 @@
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![25%](https://progress-bar.dev/25) |
-| [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![10%](https://progress-bar.dev/10) |
+| [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![15%](https://progress-bar.dev/15) |
 | [Python 3: Deep Dive (Part 1 - Functional)](https://www.udemy.com/course/python-3-deep-dive-part-1/) | 44.5 hours | ![1%](https://progress-bar.dev/1) |
 | [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | 256 pages | ![0%](https://progress-bar.dev/0) |
 <br />
