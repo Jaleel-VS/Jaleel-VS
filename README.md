@@ -49,7 +49,6 @@
 
 ### Resources I use to practice💻:
 
-- [Edabit](https://edabit.com/challenges/java)
 - [CodeAbby](https://www.codeabbey.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CodeChef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems_head)
