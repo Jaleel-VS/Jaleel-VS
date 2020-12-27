@@ -51,7 +51,7 @@
 ##### Secondary
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
-| [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 256 pages | ![0%](https://progress-bar.dev/0) |
+| [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
 | [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | 256 pages | ![0%](https://progress-bar.dev/0) |
 <br />
 
