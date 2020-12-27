@@ -38,7 +38,7 @@
 <br />
 
 ### Course/books that I'm using📚:
-##### Primary
+#### Primary
 
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
@@ -46,9 +46,8 @@
 | [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![20%](https://progress-bar.dev/20) |
 | [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) | 17.5 hours | ![5%](https://progress-bar.dev/5) |
 | [Master statistics & machine learning: intuition, math, code](https://www.udemy.com/course/statsml_x/) | 36 hours | ![5%](https://progress-bar.dev/5) |
-<br />
 
-##### Secondary
+#### Secondary
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
