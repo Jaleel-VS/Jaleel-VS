@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python, R, SQL and C++
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in C++
-- 🥅 January goals: Work on a Django + SQL web app for storing Spanish phrases and practicing using spaced-repetition
+- 🥅 Quarter 1 goals: Spaced repition flash card web app and Dictation web/android
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
 
