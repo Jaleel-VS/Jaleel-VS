@@ -44,7 +44,7 @@
 | --------------- | --------------- | --------------- |
 | [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![45%](https://progress-bar.dev/45) |
 | [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![20%](https://progress-bar.dev/20) |
-| [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) | 17.5 hours | ![15%](https://progress-bar.dev/15) |
+| [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) | 17.5 hours | ![20%](https://progress-bar.dev/20) |
 | [Master statistics & machine learning: intuition, math, code](https://www.udemy.com/course/statsml_x/) | 36 hours | ![5%](https://progress-bar.dev/5) |
 
 #### Secondary
