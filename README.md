@@ -3,9 +3,12 @@
 
 ### My goal is to specialise in Machine Learning or Computer Graphics
 
-- 🌱 I’m currently learning Python, R, SQL and C++
+- 🌱 I’m currently learning:
+  - Python and PostgreSQL
+  - C++: Data Structures and Algorithms (for university, mostly)
+  - Basic web development
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in C++
-- 🥅 Quarter 1 goals: Spaced repition flash card web app and Dictation web/android
+- 🥅 2021 1st Quarter goals: Spaced repition flash card web app and Dictation web/android app
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
 
@@ -44,7 +47,6 @@
 | --------------- | --------------- | --------------- |
 | [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![45%](https://progress-bar.dev/45) |
 | [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![20%](https://progress-bar.dev/20) |
-| [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) | 17.5 hours | ![20%](https://progress-bar.dev/20) |
 | [Master statistics & machine learning: intuition, math, code](https://www.udemy.com/course/statsml_x/) | 36 hours | ![5%](https://progress-bar.dev/5) |
 
 #### Secondary
