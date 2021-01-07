@@ -8,7 +8,7 @@
   - C++: Data Structures and Algorithms (for university, mostly)
   - Basic web development
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in C++
-- 🥅 2021 1st Quarter goals: Spaced repition flash card web app and Dictation web/android app
+- 🥅 2021 1st Quarter goals: Spaced repetion flash card web app and Dictation web/android app
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
 
