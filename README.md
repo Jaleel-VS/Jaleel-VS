@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning:
   - Python and PostgreSQL
-  - C++: Data Structures and Algorithms (for university, mostly)
+  - Java: Data Structures and Algorithms (for university, mostly)
   - Basic web development
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in C++
 - 🥅 2021 1st Quarter goals: Spaced repetion flash card web app and Dictation web/android app
@@ -46,14 +46,11 @@
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![45%](https://progress-bar.dev/45) |
-| [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) | 41.5 hours | ![20%](https://progress-bar.dev/20) |
-| [Master statistics & machine learning: intuition, math, code](https://www.udemy.com/course/statsml_x/) | 36 hours | ![5%](https://progress-bar.dev/5) |
 
 #### Secondary
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
-| [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | 256 pages | ![0%](https://progress-bar.dev/0) |
 <br />
 
 ### Resources I use to practice💻:
