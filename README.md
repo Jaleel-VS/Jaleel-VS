@@ -47,10 +47,12 @@
 | --------------- | --------------- | --------------- |
 | [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![45%](https://progress-bar.dev/45) |
 
+
 #### Secondary
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
+| [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | 54.5 hours | ![1%](https://progress-bar.dev/1) |
 <br />
 
 ### Resources I use to practice💻:
