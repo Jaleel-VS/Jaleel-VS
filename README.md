@@ -52,7 +52,7 @@
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
-| [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | 54.5 hours | ![1%](https://progress-bar.dev/1) |
+| [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | 54.5 hours | ![10%](https://progress-bar.dev/10) |
 <br />
 
 ### Resources I use to practice💻:
