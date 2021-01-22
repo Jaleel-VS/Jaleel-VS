@@ -45,7 +45,7 @@
 
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
-| [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![50%](https://progress-bar.dev/50) |
+| [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![55%](https://progress-bar.dev/55) |
 
 
 #### Secondary
