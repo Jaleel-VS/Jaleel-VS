@@ -1,5 +1,5 @@
 ### Hi there, I'm Jaleel van Staden 
-##### I'm a Computer Science and Applied Statistics student at the University of Cape Town
+##### I'm a Computer Science and Computer Engineering student at the University of Cape Town
 
 ### My goal is to be a Software Engineer
 
