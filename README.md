@@ -63,7 +63,7 @@
 - [CodeChef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems_head)
 - [Exercism](https://exercism.io/)
 
-
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
 
 
 
