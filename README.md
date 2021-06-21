@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:
   - Python and PostgreSQL
   - Java: Data Structures and Algorithms (for university, mostly)
-  - Basic web development
+  - Rust
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in Java
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
