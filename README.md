@@ -3,11 +3,12 @@
 
 ### My goal is to be a Software Engineer
 
-- 🌱 I’m currently learning:
+- 🌱 My current interests:
   - Python
   - PostgreSQL
   - Java: Data Structures and Algorithms (for university, mostly)
-  - C++
+  - Rust
+  - C# and Unity
 - 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in Java
 - ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
 
@@ -22,9 +23,10 @@
 ### Languages I'm familiar with:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825128243658752/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde206fb71.9462244415219911380286.png" />
-<img align="left" alt="C++" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825123323740181/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.2806896415232440.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825126653886464/kisspng-c-programming-basics-for-absolute-beginners-comp-5b1061268e45a8.2307225915278001025828.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
+<img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
+
 <br />
 <br />
 
