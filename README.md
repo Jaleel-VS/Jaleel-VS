@@ -16,16 +16,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Jaleel | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img alt="Jaleel | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 
 ### Languages I'm familiar with:
 
-<img align="left" alt="Python" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825128243658752/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde206fb71.9462244415219911380286.png" />
-<img align="left" alt="C#" width="26px" src="https://cdn.discordapp.com/attachments/731884286097227856/785825126653886464/kisspng-c-programming-basics-for-absolute-beginners-comp-5b1061268e45a8.2307225915278001025828.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
-<img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
+[<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][python]
+[<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
+[<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][java]
+[<img  alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />][rust]
 
 <br />
 <br />
@@ -71,4 +71,8 @@
 [twitter]: https://twitter.com/Jaleel_v_S
 
 [linkedin]: https://www.linkedin.com/in/jaleel-douglas-van-staden-6b4a70196/
+[java]: https://docs.oracle.com/javase/7/docs/technotes/guides/language/
+[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+[python]: https://www.python.org/
+[rust]: https://www.rust-lang.org/
 
