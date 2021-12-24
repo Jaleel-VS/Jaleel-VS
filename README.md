@@ -1,7 +1,7 @@
 ### Jaleel van Staden 
 ##### Computer Science and Computer Engineering student at the University of Cape Town
 
-### My goal is to be a Software Engineer
+#### My goal is to be a Software Engineer
 
 - 🌱 My current interests:
   - Python
