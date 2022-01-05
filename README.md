@@ -1,16 +1,6 @@
-### Jaleel van Staden 
-##### Computer Science and Computer Engineering student at the University of Cape Town
-
-#### My goal is to be a Software Engineer
-
-- 🌱 My current interests:
-  - Python
-  - PostgreSQL
-  - Java: Data Structures and Algorithms (for university, mostly)
-  - Rust
-  - C# and Unity
-- 👯 I’m looking to practice a little everyday with my focus being on the Python language and Algorithms and Data Structures in Java
-- ⚡ Fun fact: I love learning languages. I've taught myself Spanish and I'm currently learning German and Zulu
+<div align=center>
+  <h1> Jaleel van Staden <h1>
+</div>
 
 
 
@@ -55,12 +45,12 @@
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
 | [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
-| [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | 54.5 hours | ![10%](https://progress-bar.dev/10) |
-| [The Complete Python Course \| Learn Python by Doing](https://www.udemy.com/course/the-complete-python-course/) | 35 hours | ![10%](https://progress-bar.dev/10) |
 <br />
 
 ### Resources I use to practice💻:
+    
 
+- [Advent of Code](http://adventofcode.com/)
 - [CodeAbby](https://www.codeabbey.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CodeChef](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems_head)
