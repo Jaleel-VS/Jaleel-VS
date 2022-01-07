@@ -1,26 +1,36 @@
 <div align=center>
-  <h1> Jaleel van Staden <h1>
+  <h1> Jaleel van Staden </h1>
 </div>
 
 
 
-### Connect with me:
 
-[<img alt="Jaleel | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img alt="Jaleel | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<div align=center>
+  <h3>Connect with me:</h3>
+<a  href="https://twitter.com/Jaleel_v_S">
+  <img alt="Jaleel | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+<a href="https://www.linkedin.com/in/jaleel-douglas-van-staden-6b4a70196/">
+  <img alt="Jaleel | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+      </div>
 <br />
 
-### Languages I'm familiar with:
-
-[<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][python]
-[<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][csharp]
-[<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][java]
-[<img  alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />][rust]
+ <div align=center>
+<h3>Languages I'm familiar with:</h3>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img  alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+     </div>
 
 <br />
 <br />
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
+ <div align=center>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&langs_count=50&layout=compact&theme=gruvbox&show_icons=true" />
+     </div>
+
 
 ### Tools I use:
 
