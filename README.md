@@ -1,12 +1,24 @@
 <div align=center>
-  <h1> Jaleel van Staden </h1>
+  <h1> Jaleel van Staden 👋🏿</h1>
 </div>
 
+<div>
+  <p>I'm an aspiring software developer 🖥</p>
+<h4>What I want to learn in 2022</h4>
+  <ul>
+    <li>Advanced Python Features</li>
+    <li>Rust</li>
+    <li>C#</li>
+    <li>Unity</li>
+    <li>JavaScript and React</li>
+    <li>PostgreSQL</li>
+  </ul>
+  </div>
 
 
 
-<div align=center>
-  <h3>Connect with me:</h3>
+<div>
+  <h3>Connect with me: 🗣</h3>
 <a  href="https://twitter.com/Jaleel_v_S">
   <img alt="Jaleel | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
@@ -16,8 +28,8 @@
       </div>
 <br />
 
- <div align=center>
-<h3>Languages I'm familiar with:</h3>
+ <div>
+<h3>Languages I'm familiar with: </h3>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -27,7 +39,7 @@
 <br />
 <br />
 
- <div align=center>
+ <div>
 <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&langs_count=50&layout=compact&theme=gruvbox&show_icons=true" />
      </div>
 
