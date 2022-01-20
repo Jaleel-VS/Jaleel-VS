@@ -1,9 +1,10 @@
 <div align=center>
   <h1> Jaleel van Staden 👋🏿</h1>
+   <p>I'm an aspiring software developer 🖥</p>
 </div>
 
 <div>
-  <p>I'm an aspiring software developer 🖥</p>
+ 
 <h4>What I want to learn in 2022</h4>
   <ul>
     <li>Advanced Python Features</li>
