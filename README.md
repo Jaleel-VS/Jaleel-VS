@@ -8,10 +8,9 @@
 <h4>What I want to learn in 2022</h4>
   <ul>
     <li>Advanced Python Features</li>
-    <li>Rust</li>
     <li>C#</li>
     <li>Unity</li>
-    <li>JavaScript and React</li>
+    <li>HTML/CSS/JS</li>
     <li>PostgreSQL</li>
   </ul>
   </div>
