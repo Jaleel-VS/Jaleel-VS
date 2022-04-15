@@ -56,19 +56,7 @@
 <br />
 <br />
 
-### Course/books that I'm using📚:
-#### Primary
 
-| Resource |  Length | Progress |
-| --------------- | --------------- | --------------- |
-| [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/) | 13.5 hours | ![55%](https://progress-bar.dev/55) |
-
-
-#### Secondary
-| Resource |  Length | Progress |
-| --------------- | --------------- | --------------- |
-| [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.com/-/es/Anthony-DeBarros/dp/1593278276) | 392 pages | ![0%](https://progress-bar.dev/0) |
-<br />
 
 ### Resources I use to practice💻:
     
