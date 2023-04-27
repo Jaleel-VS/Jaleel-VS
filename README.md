@@ -6,6 +6,8 @@
 <br>
 <br>
 
+My personal projects
+
 | Project Name   | Tech Stack       | Status        | Description                 | Link(s)                      |
 |----------------|-----------------|---------------|-----------------------------|-----------------------------|
 |Hablemos Discord Bot      | Python, Discord.Py, MongoDB    | Functional, In Progress   | A Discord bot for the Spanish-English language server | [Repo](https://github.com/Jaleel-VS/hablemos-discordpy-bot) |
