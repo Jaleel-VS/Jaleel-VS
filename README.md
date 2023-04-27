@@ -6,7 +6,7 @@
 <br>
 <br>
 
-My personal projects
+## My personal projects 💻
 
 | Project Name   | Tech Stack       | Status        | Description                 | Link(s)                      |
 |----------------|-----------------|---------------|-----------------------------|-----------------------------|
