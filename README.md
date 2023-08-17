@@ -6,6 +6,24 @@
 <br>
 <br>
 
+## Technology I use often
+### Languages
+- Python
+- Java
+- Go
+- Typescript
+
+### Frameworks/Libraries
+- Spring Boot
+- FastAPI
+- Svelte
+- Vue.JS
+
+### Tools/DBs
+- Docker
+- Posgres
+- MongoDB
+
 ## My personal projects 💻
 
 | Project Name   | Tech Stack       | Status        | Description                 | Link(s)                      |
