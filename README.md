@@ -8,21 +8,13 @@
 
 ## Technology I use often
 ### Languages
-- Python
-- Java
-- Go
-- Typescript
+Python | Java | Go | Typescript
 
 ### Frameworks/Libraries
-- Spring Boot
-- FastAPI
-- Svelte
-- Vue.JS
+Spring Boot | FastAPI | Svelte | Vue.JS
 
 ### Tools/DBs
-- Docker
-- Posgres
-- MongoDB
+Docker | Posgres | MongoDB
 
 ## My personal projects 💻
 
@@ -32,3 +24,4 @@
 | Course Daily Scheduler      | Python, Selenium   | In Progress     | An app that takes a link from an online course site and suggests a study plan | [Repo](https://github.com/Jaleel-VS/Course-Daily-Scheduler) |
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaleel-vs&theme=dark" alt="jaleel-github-info" /></p>
