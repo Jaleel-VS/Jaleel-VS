@@ -1,10 +1,4 @@
-<div align=center>
-  <h1> Hi, I'm Jaleel 👋🏿</h1>
-   <p>I'm an aspiring software developer 🖥</p>
-    
-</div>
-<br>
-<br>
+<h2 align="center">Hello world🌍I'm Jaleel🌞</h2>
 
 ## Technology I use often
 ### Languages
@@ -21,7 +15,10 @@ Docker | Posgres | MongoDB
 | Project Name   | Tech Stack       | Status        | Description                 | Link(s)                      |
 |----------------|-----------------|---------------|-----------------------------|-----------------------------|
 |Hablemos Discord Bot      | Python, Discord.Py, MongoDB    | Functional, In Progress   | A Discord bot for the Spanish-English language server | [Repo](https://github.com/Jaleel-VS/hablemos-discordpy-bot) |
-| Course Daily Scheduler      | Python, Selenium   | In Progress     | An app that takes a link from an online course site and suggests a study plan | [Repo](https://github.com/Jaleel-VS/Course-Daily-Scheduler) |
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaleel-vs&theme=dark" alt="jaleel-github-info" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaleel-VS&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jaleel-VS&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
