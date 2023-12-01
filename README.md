@@ -2,7 +2,7 @@
 
 ## Technology I use often
 ### Languages
-Python | Java | Go | Typescript
+Python | Java | C# | Typescript
 
 ### Frameworks/Libraries
 Spring Boot | FastAPI | Svelte | Vue.JS
