@@ -2,10 +2,10 @@
 
 ## Technology I use often
 ### Languages
-Python | Java | C# | Typescript
+Python | Java | C# | Typescript | Rust 
 
 ### Frameworks/Libraries
-Spring Boot | FastAPI | Svelte | Vue.JS
+Spring Boot | FastAPI | Next.JS 
 
 ### Tools/DBs
 Docker | Posgres | MongoDB
