@@ -1,4 +1,4 @@
-<h2 align="center">Hello world🌍I'm Jaleel🌞</h2>
+<h2 align="center">Hello world, I'm Jaleel 👋</h2>
 
 ## Technology I use often 💻
 ### Languages
