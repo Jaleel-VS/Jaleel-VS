@@ -22,8 +22,8 @@ educational software.
 
 ### Goals for 2024 🥅
 
-- Learn to test React, Rust and Python code
-- Explore more AI related content
+- Learn to test React, Rust, and Python code
+- Explore more AI-related content
 - Do more blockchain projects
 
 ## My personal projects 📽
