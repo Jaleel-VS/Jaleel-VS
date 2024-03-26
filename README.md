@@ -45,4 +45,4 @@ educational software.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jaleel-VS&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jaleel-VS&theme=default&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaleel-VS&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
