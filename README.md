@@ -1,4 +1,4 @@
-<h2 align="center">Hallo wêreld, I'm Jaleel 👋</h2>
+<h2 align="center">Hola Mundo, soy Jaleel 👋</h2>
 
 I'm a software engineer and information systems student who enjoys all things tech. I have a special interest in deep learning, and
 educational software. 
