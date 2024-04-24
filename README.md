@@ -8,7 +8,7 @@ educational software.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks/Libraries 💽
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -37,7 +37,6 @@ educational software.
 |Page Replacement Algorithm Simulator | Java SpringBoot, Thymeleaf    | Planned   | Visualise how page replacement algorithms work under the hood |  |
 |Dijkstra's Algorithm Simulator | Unity C#    | Planned   | A 3d  tool to visualize Dijkstra's algorithm in a 3d environment |  |
 |Regis | SvelteKit, ASP.NET    | Planned   | A language learning app to learn a language with transcription |  |
-|Invoice App | SvelteKit, PSQL    | Planned   | A simple invoice app for my university society |  |
 
 
 
