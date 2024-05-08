@@ -1,6 +1,6 @@
 <h2 align="center">Hola Mundo, soy Jaleel 👋</h2>
 
-I'm a software engineer and information systems student who enjoys all things tech. I have a special interest in deep learning, and
+I'm a software engineer @ Old Mutual Investment Group, and an Information Systems student @ University of Cape Town. I enjoy all things tech and I have a special interest in deep learning, and
 educational software. 
 
 ## Technologies I use often 💻
