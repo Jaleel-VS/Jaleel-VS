@@ -31,7 +31,7 @@ educational software.
 |----------------|-----------------|---------------|-----------------------------|-----------------------------|
 |Hablemos Discord Bot      | Python, Discord.Py, MongoDB    | Functional, In Progress   | A Discord bot for the Spanish-English language server | [Repo](https://github.com/Jaleel-VS/hablemos-discordpy-bot) |
 |Zeit     | Current: Python, Planned: Next.JS, MongoDB    | Early-Stage, In Progress   | A tool that generates a learning schedule for Udemy courses | [Repo](https://github.com/Jaleel-VS/zeit) |
-|**Planned** (January 2024 - June 2024)      |     |   |  |  |
+|**Planned**       |     |   |  |  |
 |Dramalytics      | Next.JS, PSQL    | Planned  | Show season by season statistics for tv shows |  |
 |Page Replacement Algorithm Simulator | Java SpringBoot, Thymeleaf    | Planned   | Visualise how page replacement algorithms work under the hood |  |
 |Dijkstra's Algorithm Simulator | Unity C#    | Planned   | A 3d  tool to visualize Dijkstra's algorithm in a 3d environment |  |
