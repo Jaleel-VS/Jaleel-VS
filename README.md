@@ -3,6 +3,8 @@
 I'm a software engineer @ Old Mutual Investment Group, and an Information Systems student @ University of Cape Town. I enjoy all things tech and I have a special interest in deep learning, and
 educational software. 
 
+Currently I'm working in the Data Engineering team in my company, at school I'm working with Flutter and Dart, and in my personal time I do full stack projects in Next.JS and Sveltekit
+
 ## Technologies I use often 💻
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
