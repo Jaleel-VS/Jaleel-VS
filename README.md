@@ -1,6 +1,6 @@
 <h2 align="center">Hola Mundo, soy Jaleel 👋</h2>
 
-I'm a software engineer @ Old Mutual Investment Group, and an Information Systems student @ University of Cape Town. I enjoy all things tech and I have a special interest in deep learning, and
+I'm a software engineer @ Old Mutual Investment Group. I enjoy all things tech and I have a special interest in deep learning, backend development, and
 educational software. 
 
 Currently I'm working in the Data Engineering team in my company, at school I'm working with Flutter and Dart, and in my personal time I do full stack projects in Next.JS and Sveltekit
@@ -22,10 +22,11 @@ Currently I'm working in the Data Engineering team in my company, at school I'm 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Goals for 2024 🥅
+### Goals for 2025 🥅
 
-- Learn to test React, Go, and Python code
-- Explore more AI-related content
+- Learn Rust
+- Get better at C#
+- Explore different software paradigms and architectural concepts 
 
 ## My personal projects 📽
 
