@@ -1,9 +1,7 @@
 <h2 align="center">Hola Mundo, soy Jaleel 👋</h2>
 
-I'm a software engineer @ Old Mutual Investment Group. I enjoy all things tech and I have a special interest in deep learning, backend development, and
-educational software. 
-
-Currently I'm working in the Data Engineering team in my company, at school I'm working with Flutter and Dart, and in my personal time I do full stack projects in Next.JS and Sveltekit
+I'm a software engineer @ Entelect. I enjoy all things tech and I have a special interest in data engineering, backend development, and
+educational software. In my spare time I do full stack projects in Next.JS and have gotten into game development. I like drawing, learning (human) languages, taking walks and reading
 
 ## Technologies I use often 💻
 ### Languages
